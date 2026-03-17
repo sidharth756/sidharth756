@@ -86,10 +86,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth756&theme=default" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://git-graph.vercel.app/embed/sidharth756?showColorLegend=true&showWeekdayLabels=true&showMonthLabels=true&showTotalCount=true&blockMargin=4&blockRadius=2&blockSize=10&fontSize=16&weekStart=3&year=2025" alt="GitHub Contribution Graph" />
-</p>
-
 ## <img src="https://img.icons8.com/color/24/code.png" alt="LeetCode" /> LeetCode Stats
 
 <p align="center">
