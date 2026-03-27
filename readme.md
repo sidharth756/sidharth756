@@ -77,10 +77,10 @@
 
 ## <img src="https://img.icons8.com/color/24/combo-chart--v1.png" alt="GitHub" /> GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sidharth756&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth756&layout=compact&locale=en&theme=default" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth756&theme=default" alt="GitHub Streak" />
