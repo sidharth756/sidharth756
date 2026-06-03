@@ -83,7 +83,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth756&theme=default" alt="GitHub Streak" />
+  <img src="https://ghstats.dev/api/card?username=sidharth756&theme=radical&hide=contributions%2Cfollowers" alt="GitHub Streak" />
 </p>
 
 ## <img src="https://img.icons8.com/color/24/code.png" alt="LeetCode" /> LeetCode Stats
