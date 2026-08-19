@@ -35,7 +35,7 @@
 
 <img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Languages:** Java, C, C++, JavaScript, Python  
 <img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Web & Database:** Spring Boot, Web3j, HTML5, CSS3, React, Node.js, MySQL/Oracle  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Tools & Platforms:** Git, Linux, Figma  
+<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Tools & Platforms:** Git, Linux, Figma, Docker, Intellij, VScode  
 <img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Core Strengths:** Data Structures and Algorithms, Problem Solving, Leadership
 
 <p align="left">
