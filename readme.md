@@ -33,10 +33,10 @@
 
 ## <img src="https://img.icons8.com/color/24/toolbox.png" alt="Skills" /> Technical Skills
 
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Languages:** Java, JavaScript, Python, C, C++  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Web & Database:** HTML5, CSS3, React, Node.js, MySQL  
+<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Languages:** Java, C, C++, JavaScript, Python  
+<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Web & Database:** Spring Boot, Web3j, HTML5, CSS3, React, Node.js, MySQL/Oracle  
 <img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Tools & Platforms:** Git, Linux, Figma  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Core Strengths:** Data Structures and Algorithms, Problem Solving
+<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Core Strengths:** Data Structures and Algorithms, Problem Solving, Leadership
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,html,css,mysql,python,c,cpp,git,linux,figma&perline=7" alt="Tech Icons" />
