@@ -20,16 +20,16 @@
 
 ## <img src="https://img.icons8.com/color/24/user-male-circle--v1.png" alt="About" /> About Me
 
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> Based in Coimbatore, Tamil Nadu, India  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> Passionate about Java full-stack development, especially backend with Java and Spring Boot  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> Actively improving DSA through competitive programming and consistent practice  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> Exploring AI fundamentals and real-world project applications  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> Open to internships, collaborations, and entry-level software roles
+- Based in Coimbatore, Tamil Nadu, India
+- Passionate about Java full-stack development, especially backend with Java and Spring Boot
+- Actively improving DSA through competitive programming and consistent practice
+- Exploring AI fundamentals and real-world project applications
+- Open to internships, collaborations, and entry-level software roles
 
 ## <img src="https://img.icons8.com/color/24/graduation-cap.png" alt="Education" /> Education
 
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **B.E. Computer Science and Engineering**, Karpagam College of Engineering (Jul 2024 - Jul 2028)  
-<img src="./output-onlinegiftools.gif" width="20" style="vertical-align: -5px;" /> **Higher Studies (Mathematics and Computer Science)**, SRT Universal Matriculation Hr. Sec. School (Jul 2022 - Mar 2024)
+- **B.E. Computer Science and Engineering**, Karpagam College of Engineering (Jul 2024 - Jul 2028)  
+- **Higher Studies (Mathematics and Computer Science)**, SRT Universal Matriculation Hr. Sec. School (Jul 2022 - Mar 2024)
 
 ## <img src="https://img.icons8.com/color/24/toolbox.png" alt="Skills" /> Technical Skills
 
